@@ -1,11 +1,11 @@
-# <p align="center"><u>Developper EAF</u></p>
+# <p align="center"><u>FoxCraftCandide</u></p>
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web,+Windows+and+Anroid+Developer!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+FoxCraftCandide;Software+Engineer;Full-Stack+Web,+Desktop+and+Mobile+Developer!)
 
-<b>Hello! I'm <span style="color:#016EEA;"><strong>El Azbi Fouad</strong></span>, a passionate Software Engineer.</b>
+<b>Hello! I'm a passionate <span style="color:#016EEA;"><strong>Software Engineer</strong></span>,</b>
 I specialize in:
 
-🔧 Full-Stack Development (Web, Windows, and Android)
+🔧 Full-Stack Development (Web, Desktop, and Mobile)
 
 🖥️ Custom Software Engineering
 
@@ -16,7 +16,7 @@ I specialize in:
 I'm constantly exploring new technologies and building efficient, scalable, and user-friendly software solutions. Whether it's crafting intuitive interfaces or diving deep into data, I'm always ready to innovate and learn.
 <br>
 
-You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to consult more information about me -\_^
+You can visit my [portfolio](https://foxcraftcandide.github.io/elazbi/ "portfolio") to consult more information about me -\_^
 <br></b>
 
 ---
@@ -24,7 +24,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
 ### <u>Tools & Languages</u>
 
 <p align="center">
-    <a href="https://github.com/FouadEAF#tools--languages">
+    <a href="https://github.com/foxcarftcandide#tools--languages">
         <!-- Git -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
         <!-- Github -->
@@ -76,25 +76,25 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
 #### <u>Contact Me:</u><br>
 
 <p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
-    <a href="https://github.com/FouadEAF#contact-me">
+    <a href="https://github.com/foxcarftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/500945/next.svg" alt="next" height="40">
     </a>
-    <a href="tel:+212645994904" target="_blank" alt="+212645994904">
-        <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone: +212(0)645994904" height="40" title="Phone: +212(0)645994904">
+    <a href="tel:+212725008380" target="_blank" alt="+212725008380">
+        <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone: +212(0)725008380" height="40" title="Phone: +212(0)725008380">
     </a>
-    <a href="https://github.com/FouadEAF#contact-me">
+    <a href="https://github.com/foxcarftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     </a>
     <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail: DevelopperEAF@gmail.com" title="Gmail: DevelopperEAF@gmail.com" height="40">
     </a>
-    <a href="https://github.com/FouadEAF#contact-me">
+    <a href="https://github.com/foxcarftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
-        <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp: 212645994904" title="Whatsapp: 212645994904" height="40">
+    <a href="https://api.whatsapp.com/send?phone=+212725008380&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
+        <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp: 212725008380" title="Whatsapp: 212725008380" height="40">
     </a>
-    <a href="https://github.com/FouadEAF#contact-me">
+    <a href="https://github.com/foxcarftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/500777/back.svg" alt="Back" height="40">
     </a>
 </p>
@@ -102,11 +102,11 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
 ---
 
 <p align="center">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF" alt="Repos per Language">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF" alt="GitHub Streak">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxcarftcandide" alt="Repos per Language">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxcarftcandide&theme=github" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxcarftcandide" alt="GitHub Streak">
 </p>
 
 ---
 
-<p align="center"> All right reserved (C).Developper EAF 2023 </p>
+<p align="center">&copy; 2026 Developper EAF | All right reserved </p>
