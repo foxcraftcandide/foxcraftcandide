@@ -16,7 +16,7 @@ I specialize in:
 I'm constantly exploring new technologies and building efficient, scalable, and user-friendly software solutions. Whether it's crafting intuitive interfaces or diving deep into data, I'm always ready to innovate and learn.
 <br>
 
-You can visit my [portfolio](https://foxcraftcandide.github.io/elazbi/ "portfolio") to consult more information about me -\_^
+You can visit my [portfolio](https://foxcraftcandide.github.io/fea/ "Portfolio") to consult more information about me -\_^
 <br></b>
 
 ---
