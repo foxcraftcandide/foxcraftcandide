@@ -76,25 +76,25 @@ You can visit my [portfolio](https://foxcraftcandide.github.io/fea/ "Portfolio")
 #### <u>Contact Me:</u><br>
 
 <p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
-    <a href="https://github.com/foxcarftcandide#contact-me">
+    <a href="https://github.com/foxcraftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/500945/next.svg" alt="next" height="40">
     </a>
     <a href="tel:+212725008380" target="_blank" alt="+212725008380">
         <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone: +212(0)725008380" height="40" title="Phone: +212(0)725008380">
     </a>
-    <a href="https://github.com/foxcarftcandide#contact-me">
+    <a href="https://github.com/foxcraftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     </a>
     <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail: DevelopperEAF@gmail.com" title="Gmail: DevelopperEAF@gmail.com" height="40">
     </a>
-    <a href="https://github.com/foxcarftcandide#contact-me">
+    <a href="https://github.com/foxcraftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     </a>
     <a href="https://api.whatsapp.com/send?phone=+212725008380&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp: 212725008380" title="Whatsapp: 212725008380" height="40">
     </a>
-    <a href="https://github.com/foxcarftcandide#contact-me">
+    <a href="https://github.com/foxcraftcandide#contact-me">
         <img src="https://www.svgrepo.com/show/500777/back.svg" alt="Back" height="40">
     </a>
 </p>
@@ -102,9 +102,9 @@ You can visit my [portfolio](https://foxcraftcandide.github.io/fea/ "Portfolio")
 ---
 
 <p align="center">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxcarftcandide" alt="Repos per Language">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxcarftcandide&theme=github" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxcarftcandide" alt="GitHub Streak">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxcraftcandide" alt="Repos per Language">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxcraftcandide&theme=github" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxcraftcandide" alt="GitHub Streak">
 </p>
 
 ---
